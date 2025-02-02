@@ -8,5 +8,6 @@ public class DuoProjectApplication {
 	public static void main(String[] args) {
 		System.out.println("Сосаааать");
 		System.out.println("COCAMBA!!");
+		System.out.println("Проверка!!");
 	}
 }
