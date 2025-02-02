@@ -9,6 +9,6 @@ public class DuoProjectApplication {
 		System.out.println("Сосаааать");
 		System.out.println("COCAMBA!!");
 		System.out.println("Сосалити!!!");
-		System.out.println("Сосалити!!!");
+		System.out.println("насосалити!!!");
 	}
 }
